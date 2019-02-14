@@ -10,4 +10,8 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+Git in dare and dood dat deployment.
+
 ## How to Contribute
+
+Git in dare an dood som chit.
