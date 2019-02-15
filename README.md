@@ -18,4 +18,4 @@ Git in dare an dood som chit. How 'bout some moooo-la!
 
 ## Copyright
 
-Copyright 2019
+Copyright 2019, Tony Tobianski
