@@ -15,3 +15,7 @@ Git in dare and dood dat deployment. Bedder git gruntin'.
 ## How to Contribute
 
 Git in dare an dood som chit. How 'bout some moooo-la!
+
+## Copyright
+
+Copyright 2019
