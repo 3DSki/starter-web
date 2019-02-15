@@ -6,7 +6,7 @@ This repository is for showing how Git and GitHub work. Plus, using a merge tool
 
 ## Purpose
 
-Sample website with plenty of files for demos. This README is always changing!
+Sample website with plenty of files for demos. This README is always changing!  Just adding some more.
 
 ## Deployment
 
