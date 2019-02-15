@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Burt
 
 # TECHNOLOGY COLOPHON
 
